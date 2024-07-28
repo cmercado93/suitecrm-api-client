@@ -1,0 +1,22 @@
+{
+    "name": "cmercado93/suitecrm-api-client",
+    "description": "Una biblioteca PHP para interactuar de manera sencilla con la API de SuiteCRM.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cmercado93\\SuitecrmApiClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Mercado",
+            "email": "cmercado93@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
